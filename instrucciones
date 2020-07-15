@@ -1,0 +1,11 @@
+Requisitos:
+Base de datos "MYSQL"
+PHP 7
+Librerias incluidas en los archivos.
+
+Se debe importar el archivo "bd.sql" a mysql y ejecutar para que el proyecto funcione.
+
+Se ha divido en dos partes:
+
+1._ Lista de productos de proveedor: para alimentar mas que todo la bd de productos modificar o eliminar.
+2._ la seccion de productos para clientes donde podran elegir que producto y que cantidad comprar y generar su factura luego de finalizar.
